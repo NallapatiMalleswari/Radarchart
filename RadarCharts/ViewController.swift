@@ -1,9 +1,9 @@
 //
 //  AfterSessionReportController.swift
-//  DhyanaGenric
+//  RadarCharts
 //
-//  Created by AVANTARI on 16/12/17.
-//  Copyright © 2017 AVANTARI. All rights reserved.
+//  Created by malli nallapati on 24/05/18.
+//  Copyright © 2018 malliswarinallapati. All rights reserved.
 //
 
 import UIKit

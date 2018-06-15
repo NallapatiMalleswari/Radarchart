@@ -372,11 +372,10 @@
 		547613C020D3F97400457AA9 /* RadarCharts */ = {
 			isa = PBXGroup;
 			children = (
+				54B0939720D405D0000145C1 /* Modal */,
 				54B0927720D3FBBA000145C1 /* Charts */,
 				547613C120D3F97400457AA9 /* AppDelegate.swift */,
 				547613C320D3F97400457AA9 /* ViewController.swift */,
-				54B0939320D3FCCC000145C1 /* Config.swift */,
-				54B0939520D3FD4D000145C1 /* GraphDataPoints.swift */,
 				547613C520D3F97400457AA9 /* Main.storyboard */,
 				547613C820D3F97500457AA9 /* Assets.xcassets */,
 				547613CA20D3F97500457AA9 /* LaunchScreen.storyboard */,
@@ -662,6 +661,15 @@
 				54B0930C20D3FBBA000145C1 /* ViewPortHandler.swift */,
 			);
 			path = Utils;
+			sourceTree = "<group>";
+		};
+		54B0939720D405D0000145C1 /* Modal */ = {
+			isa = PBXGroup;
+			children = (
+				54B0939320D3FCCC000145C1 /* Config.swift */,
+				54B0939520D3FD4D000145C1 /* GraphDataPoints.swift */,
+			);
+			path = Modal;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

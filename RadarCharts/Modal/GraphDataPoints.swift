@@ -1,9 +1,9 @@
 //
 //  GraphDataPoints.swift
-//  DhyanaGenric
+//  RadarCharts
 //
-//  Created by Avantari on 12/26/17.
-//  Copyright © 2017 AVANTARI. All rights reserved.
+//  Created by malli nallapati on 24/05/18.
+//  Copyright © 2018 malliswarinallapati. All rights reserved.
 //
 
 import Foundation
